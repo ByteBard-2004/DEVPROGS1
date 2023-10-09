@@ -1,4 +1,5 @@
 # DEVPROGS1
+1.FIBONACCI SERIES
 publicclass Fibonaccinumbers {
 publicstaticvoid main(String[] args) {
 int elementPosition=1,count=10, firstFibonacciNum=0,nextFibonacciNum=1;
@@ -13,3 +14,6 @@ elementPosition++;
 }
 }
 }
+output:
+Fibonacci numbers:
+0 11 2 
