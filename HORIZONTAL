@@ -1,3 +1,4 @@
+5.HORIZONAL
 public class Reverse {
     public static void main(String[] args) {
         int number = 12345;
@@ -12,3 +13,5 @@ public class Reverse {
         System.out.println("The reverse of the given number is: " + reverse);
     }
 }
+OUTPUT:
+THE REVERSE OF GIVEN NUMBER:987654
