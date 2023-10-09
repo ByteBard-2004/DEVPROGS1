@@ -1,10 +1,14 @@
+2.TERENARY OPERATOR
 public class TernaryOperator {
     public static void main(String[] args) {
         int x, y;
         x = 20;
-        y = (x == 1) ? 61 : 90;
+        y = (x == 1) ? 61 : 85;
         System.out.println("Value of y is: " + y);
-        y = (x == 20) ? 61 : 90;
+        y = (x == 20) ? 52 : 90;
         System.out.println("Value of y is: " + y);
     }
 }
+OUTPUT:
+VALUE OF Y:85
+VALUE OF X:52
